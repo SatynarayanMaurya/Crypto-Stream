@@ -35,8 +35,6 @@ This project demonstrates real-time communication, caching, and alerting systems
 - Node.js
 - Express.js
 - MongoDB (Mongoose ORM)
-- Redis (for caching)
-- TypeScript
 - Nodemailer (for email alerts)
 
 **Frontend**
